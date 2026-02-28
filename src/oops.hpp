@@ -2,4 +2,5 @@
 
 #include <string>
 
-std::string oops();
+bool input_validation(std::string input);
+
